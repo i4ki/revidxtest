@@ -1,0 +1,5 @@
+/revidxtest
+/csv2json/csv2json
+/_data/zip/*.zip
+/_data/txt/*.txt
+/_data/json/*.json

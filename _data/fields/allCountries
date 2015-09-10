@@ -1,0 +1,20 @@
+:tsv
+geonameid: number
+name: string
+asciiname: string
+alternatenames: string
+latitude: number
+longitude: number
+featureClass: string
+featureCode: string
+countryCode: string
+cc2: string
+admin1Code: string
+admin2Code: string
+admin3Code: string
+admin4Code: string
+population: string
+elevation: number
+dem: number
+timezone: string
+modification_date: string
